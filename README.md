@@ -24,6 +24,12 @@ License: **GPL-2.0-or-later**. Author: Heterodyna Team Software.
 
 ## Development / Rozwój
 
+### Polski
+
+Główny plik wtyczki: `heterodyna-wordpress-shield/heterodyna-wordpress-shield.php`. Wtyczka nie wymaga klucza licencyjnego ani połączenia z serwerem aktywacji. Pakiet nie wymaga zewnętrznych zależności do uruchomienia. **Przeprowadzono kontrolę składni PHP**. Integracja z WordPressem i zgodność działania w testach kompleksowych **nie zostały jeszcze zweryfikowane**. Szczegóły znajdują się w `SECURITY.md` i `CHANGELOG.md`.
+
+### English
+
 Source entrypoint: `heterodyna-wordpress-shield/heterodyna-wordpress-shield.php`. No license key or activation server is needed. This package contains no external runtime dependencies. Tested: PHP syntax lint. WordPress integration/end-to-end compatibility is **not yet verified**. See `SECURITY.md` and `CHANGELOG.md`.
 
 ## Support the project / Wsparcie projektu 💙
@@ -34,4 +40,4 @@ Source entrypoint: `heterodyna-wordpress-shield/heterodyna-wordpress-shield.php`
 
 ☕ **Revolut:** https://revolut.me/adrian00qj
 
-**Payment title / Tytuł płatności / Назначение платежа:** `Heterodyna WordPress Shield`
+**Payment title / Tytuł płatności:** `Heterodyna WordPress Shield`

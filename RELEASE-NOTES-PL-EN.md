@@ -12,4 +12,4 @@ EN: First open-source release under the new name, no license key. New-install HS
 
 ☕ **Revolut:** https://revolut.me/adrian00qj
 
-**Payment title / Tytuł płatności / Назначение платежа:** `Heterodyna WordPress Shield`
+**Payment title / Tytuł płatności:** `Heterodyna WordPress Shield`
