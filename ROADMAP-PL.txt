@@ -1,0 +1,23 @@
+Heterodyna SEO Tarcza
+Wersja: 01.001.0001
+
+ZROBIONE
+- HSTS
+- Content-Security-Policy
+- Permissions-Policy
+- Meta description
+- OG:image
+- Twitter card
+- Wyłączenie XML-RPC
+- Ukrycie części endpointów REST users / oEmbed
+- Utrudnienie prostego skanu author
+- Usunięcie części śladów WordPressa z head
+
+DO ZROBIENIA
+- Generator rekordów DNS dla DMARC/SPF/DKIM
+- Testy zgodności nagłówków z poziomu panelu
+- Reguły serwerowe dla Apache/Nginx
+- Rozszerzony audyt techniczny strony
+
+UWAGA
+- DMARC nie jest naprawiany przez wtyczkę, bo to rekord DNS dla poczty.
